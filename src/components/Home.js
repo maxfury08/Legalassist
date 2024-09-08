@@ -15,7 +15,7 @@ const Home = () => {
           </button>
           <button className="bg-green-500 py-2 px-4 ml-4 rounded">
             Get Started
-          </button>
+            </button>
         </div>
       </nav>
 
